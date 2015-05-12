@@ -1,0 +1,9 @@
+E:\.NET Web App(Batch-4)\02-05-2015\FileRWApp\FileRWApp\bin\Debug\FileRWApp.exe.config
+E:\.NET Web App(Batch-4)\02-05-2015\FileRWApp\FileRWApp\bin\Debug\FileRWApp.exe
+E:\.NET Web App(Batch-4)\02-05-2015\FileRWApp\FileRWApp\bin\Debug\FileRWApp.pdb
+E:\.NET Web App(Batch-4)\02-05-2015\FileRWApp\FileRWApp\obj\Debug\FileRWApp.csprojResolveAssemblyReference.cache
+E:\.NET Web App(Batch-4)\02-05-2015\FileRWApp\FileRWApp\obj\Debug\FileRWApp.Properties.Resources.resources
+E:\.NET Web App(Batch-4)\02-05-2015\FileRWApp\FileRWApp\obj\Debug\FileRWApp.csproj.GenerateResource.Cache
+E:\.NET Web App(Batch-4)\02-05-2015\FileRWApp\FileRWApp\obj\Debug\FileRWApp.exe
+E:\.NET Web App(Batch-4)\02-05-2015\FileRWApp\FileRWApp\obj\Debug\FileRWApp.pdb
+E:\.NET Web App(Batch-4)\02-05-2015\FileRWApp\FileRWApp\obj\Debug\FileRWApp.FileRWUi.resources
